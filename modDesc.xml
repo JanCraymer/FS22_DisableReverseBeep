@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="61">
+    <author>CptCray</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Disable Reverse Beep</en>
+        <de>Kein Rückfahrpieper</de>
+    </title>
+    <description>
+        <en><![CDATA[Are you annoyed be the reverse driving beep? Just cut the wire!]]></en>
+        <de><![CDATA[Bist du vom Rückfahrpieper genervt? Dann kappe einfach das Kabel!]]></de>
+    </description>
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="DisableReverseBeep.lua"/>
+    </extraSourceFiles>
+</modDesc>
